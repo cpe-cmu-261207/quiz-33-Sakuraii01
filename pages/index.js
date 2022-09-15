@@ -20,7 +20,7 @@ export default function Home() {
         {/* Comment Example */}
         
         <Comment/>
-        <Reply/>
+      
 
         {/* Reply Example */}
       </div>
