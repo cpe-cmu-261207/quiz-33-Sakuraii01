@@ -23,3 +23,9 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 หนูคือผู้ที่ build ไม่ได้ซักทางเลยค่ะ สวัสดี mac m1 ค่ะแงงง
 
+updateee ส่งเลทเพราะให้เพื่อนช่วย build มาค่ะ
+
+
+https://nonstop-men-xxxxxxxxxxxxxxxx.surge.sh/
+
+โปรดเมตตา ไม่ได้แก้เพิ่มเลยค่ะ
