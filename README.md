@@ -20,3 +20,6 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
 (ใส่ URL ที่นี่)
+
+หนูคือผู้ที่ build ไม่ได้ซักทางเลยค่ะ สวัสดี mac m1 ค่ะแงงง
+
